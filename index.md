@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Sample Projects
 
 [Project 1: SQL Challenge](/sql-challenge)
 <img src="images/sql.jpg?raw=true"/>
 
 ---
 [Project 2: Web Design Challenge](/web-design-challenge)
-<img src="images/web.jpg?raw=true"/>
+<img src="images/webBanner.jpg?raw=true"/>
 
 ---
 [Project 3: JavaScript Challenge](/javascript-challenge/)
