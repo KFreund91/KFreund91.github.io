@@ -4,7 +4,7 @@
 
 ### Sample Projects
 
-[Project 1: SQL Challenge](/sql-challenge)
+[Project 1: SQL Challenge](https://github.com/KFreund91/sql-challenge)
 <img src="images/sql.jpg?raw=true"/>
 
 ---
