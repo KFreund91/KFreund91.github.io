@@ -4,9 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Analyst from the University of Richmond’s Data Analytics and Visualization Bootcamp with a background in Psychology and Elementary Education. Passion for solving challenging problems in the most efficient manner. Detail-oriented with strong written and verbal communication skills. Highly adaptable to fill the needed roles of a team, particularly leadership positions. Dedicated to continuous development, growth, and acquisition of new skills. 
   <br><br>
   Tools/Languages: Excel, VBA, Python, Pandas, Matplotlib, JavaScript, Plot.ly, D3.js, HTML, CSS, Git, Flask 
+  <br><br>
   Databases: PostgreSQL, MongoDB 
   <br><br>
   <a href="https://www.linkedin.com/in/kaylee-freund/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+//google_analytics: UA-000000-0 # your Google Analytics tracking ID here
